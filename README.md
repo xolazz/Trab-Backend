@@ -101,7 +101,3 @@ src/
 - `npm run migration:generate` - Gera nova migração
 - `npm run migration:run` - Executa migrações pendentes
 - `npm run migration:revert` - Reverte última migração
-
-## Licença
-
-MIT
